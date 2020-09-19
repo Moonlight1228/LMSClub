@@ -1,8 +1,0 @@
-print ('Day:    '+'Time:         '+ ' Subject:')
-print ('Monday-' +' 9:15-10:15 AM '+' Science')
-print ('        10:35-11:40 AM'+' Math')
-print ('        12:10-1:15 PM'+'  PF')
-print ('Tuesday-'+'9:15-10:15 AM' +'  Woodwork') 
-print ('        10:35-11:40 AM'+' ELA')
-print ('        12:10-1:15 PM'+'  Social Studies')
-print ('(Breaks in between)')
