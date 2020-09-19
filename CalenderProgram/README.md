@@ -1,2 +1,1 @@
-#!/usr/bin/python
-print('Hello Peeps')
+This is my school schedual for Monday and Tuesday
